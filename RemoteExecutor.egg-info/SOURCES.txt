@@ -1,0 +1,8 @@
+README.md
+setup.py
+RemoteExecutor/RemoteExecutor.py
+RemoteExecutor/__init__.py
+RemoteExecutor.egg-info/PKG-INFO
+RemoteExecutor.egg-info/SOURCES.txt
+RemoteExecutor.egg-info/dependency_links.txt
+RemoteExecutor.egg-info/top_level.txt
